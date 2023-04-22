@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John",
+      "birthday": "26-06-1992",
+      "email": "teste@test.com.br",
+      "height": 1.65,
+      "weight": 65.6
+    },
+    {
+      "id": "2",
+      "name": "Mary",
+      "birthday": "26-06-1992",
+      "email": "teste@test.com.br",
+      "height": 1.65,
+      "weight": 65.6
+    },
+    {
+      "id": "3",
+      "name": "Peter",
+      "birthday": "26-06-1992",
+      "email": "teste@test.com.br",
+      "height": 1.65,
+      "weight": 65.6
+    }
+  ]
+}
