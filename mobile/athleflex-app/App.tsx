@@ -12,7 +12,9 @@ export default function App() {
     <>
       <StatusBar barStyle="light-content" backgroundColor="transparent" translucent />
       <NavigationContainer>
-        <Stack.Navigator initialRouteName="Home">
+        <Stack.Navigator initialRouteName="Home" screenOptions={{
+          headerShown: false, // Ocultar o header para todas as telas
+        }}>
           <Stack.Screen name="Home" component={Home} />
           <Stack.Screen name="ReflexoScreen" component={TrainingComponent} />
           <Stack.Screen name="ListaScreen" component={List} />
