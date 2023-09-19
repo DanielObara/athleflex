@@ -47,3 +47,4 @@ In addition to many other features mentioned in the Whimiscal document.
 
 ### To get more informations about how to run it see:
  [See more in](https://react-native.rocketseat.dev/expo-managed/linux)
+ [Run in USB Android](https://react-native.rocketseat.dev/physical-devices/usb/android)
